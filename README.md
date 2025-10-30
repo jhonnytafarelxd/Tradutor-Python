@@ -94,7 +94,7 @@ GoogleTranslator(source='en', target='fr')  # Traduz para francês
 
 ## 👨‍💻 Autor
 
-**Jhonny Tafarel Bonifacio de Oliveira**  
+**Jhonny Tafarel**  
 ---
 
 ## 🪪 Licença
